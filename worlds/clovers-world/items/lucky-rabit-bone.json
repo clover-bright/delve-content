@@ -1,0 +1,14 @@
+{
+  "identifier": "lucky-rabit-bone",
+  "name": "lucky rabbit bone",
+  "slot": "feet",
+  "elvl": 0,
+  "primary": "agility",
+  "secondaries": [
+    "haste_rating",
+    "recovery_rating"
+  ],
+  "shield": false,
+  "weaponType": null,
+  "description": "a rabbit bone that seems to make you faster"
+}

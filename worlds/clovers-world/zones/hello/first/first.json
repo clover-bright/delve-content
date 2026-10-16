@@ -1954,7 +1954,71 @@
       }
     }
   ],
-  "units": [],
+  "units": [
+    {
+      "identifier": "black-bear-pqowpl",
+      "unitType": "black-bear",
+      "position": {
+        "x": 536.1726999559355,
+        "y": 566.161374459141,
+        "angle": 0
+      },
+      "hostility": "hostile",
+      "currentHpFraction": 1,
+      "movement": {
+        "type": "still"
+      },
+      "groupIdentifier": "group-xalsqb"
+    },
+    {
+      "identifier": "black-bear-tuxocy",
+      "unitType": "black-bear",
+      "position": {
+        "x": 431.28510028098236,
+        "y": 622.0406167588593,
+        "angle": 93.18719860848313
+      },
+      "hostility": "hostile",
+      "currentHpFraction": 1,
+      "movement": {
+        "type": "still"
+      },
+      "groupIdentifier": "group-voddpy"
+    },
+    {
+      "identifier": "black-bear-mwkbaq",
+      "unitType": "black-bear",
+      "position": {
+        "x": 454.16966748279026,
+        "y": 564.4203298177553,
+        "angle": 0
+      },
+      "hostility": "hostile",
+      "currentHpFraction": 1,
+      "movement": {
+        "type": "still"
+      },
+      "groupIdentifier": "group-nvqrzb",
+      "lootTable": {
+        "lucky-rabit-bone": 1
+      }
+    },
+    {
+      "identifier": "black-bear-oygxys",
+      "unitType": "black-bear",
+      "position": {
+        "x": 442.0640630934281,
+        "y": 565.3323055822907,
+        "angle": 0
+      },
+      "hostility": "hostile",
+      "currentHpFraction": 1,
+      "movement": {
+        "type": "still"
+      },
+      "groupIdentifier": "group-bkftkj"
+    }
+  ],
   "cellMap": {
     "version": 1,
     "theme": "autumn",
@@ -35272,6 +35336,33 @@
           "y": 155.35
         }
       ]
+    }
+  ],
+  "stamps": [
+    {
+      "stamp": "forest/burrow",
+      "x": 431.9,
+      "y": 381,
+      "scale": 4.95,
+      "rotation": 24.19999999999999
+    },
+    {
+      "stamp": "forest/burrow",
+      "x": 539.3,
+      "y": 384.7
+    },
+    {
+      "stamp": "forest/burrow",
+      "x": 542.4,
+      "y": 437.7,
+      "scale": 7.29
+    },
+    {
+      "stamp": "forest/burrow",
+      "x": 448.6,
+      "y": 435.5,
+      "rotation": 358.1,
+      "scale": 1.74
     }
   ]
 }

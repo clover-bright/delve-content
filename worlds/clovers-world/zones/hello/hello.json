@@ -9,9 +9,23 @@
       "referenceTo": "map"
     }
   ],
-  "unitTypes": {},
-  "items": {},
+  "unitTypes": {
+    "black-bear": {
+      "$ref": "../../unit_types/black-bear.json",
+      "referenceTo": "unit_type"
+    }
+  },
+  "items": {
+    "lucky-rabit-bone": {
+      "$ref": "../../items/lucky-rabit-bone.json",
+      "referenceTo": "item"
+    }
+  },
   "zoneLinks": [],
   "entryPoints": {},
-  "openConnections": {}
+  "openConnections": {},
+  "stamps": {
+    "$ref": "./stamps.json",
+    "referenceTo": "stamps"
+  }
 }
