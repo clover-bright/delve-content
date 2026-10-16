@@ -11,5 +11,7 @@
     }
   },
   "worldLinks": [],
-  "entryPoints": {}
+  "entryPoints": {
+    "entrance/open-meadow/starting": null
+  }
 }
