@@ -1,0 +1,15 @@
+{
+  "name": "rabbit-hole",
+  "description": null,
+  "thumbnailUrl": null,
+  "elevationRange": null,
+  "zones": {
+    "entrance": {
+      "path": "./zones/entrance/entrance.json",
+      "name": "meadow",
+      "description": null
+    }
+  },
+  "worldLinks": [],
+  "entryPoints": {}
+}

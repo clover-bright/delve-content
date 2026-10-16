@@ -1,0 +1,17 @@
+{
+  "name": "meadow",
+  "description": null,
+  "elvl": 0,
+  "private": false,
+  "maps": [
+    {
+      "$ref": "./open-meadow/open-meadow.json",
+      "referenceTo": "map"
+    }
+  ],
+  "unitTypes": {},
+  "items": {},
+  "zoneLinks": [],
+  "entryPoints": {},
+  "openConnections": {}
+}
