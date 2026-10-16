@@ -15,7 +15,20 @@
   ],
   "unitTypes": {},
   "items": {},
-  "zoneLinks": [],
+  "zoneLinks": [
+    {
+      "connectionA": {
+        "map": "den-1",
+        "connection": "connection-1"
+      },
+      "connectionB": {
+        "map": "open-meadow",
+        "connection": "hole"
+      },
+      "oneWay": false,
+      "requiredKey": null
+    }
+  ],
   "entryPoints": {
     "open-meadow/starting": null
   },
