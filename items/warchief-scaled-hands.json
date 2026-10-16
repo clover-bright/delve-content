@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-scaled-hands",
+  "name": "Warchief's Scaled Grips",
+  "slot": "hands",
+  "elvl": 5,
+  "primary": "agility",
+  "secondaries": [
+    "stamina",
+    "versatility_rating"
+  ]
+}

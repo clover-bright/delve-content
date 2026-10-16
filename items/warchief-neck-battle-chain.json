@@ -1,0 +1,12 @@
+{
+  "identifier": "warchief-neck-battle-chain",
+  "name": "Warchief's Battle Chain",
+  "slot": "neck",
+  "elvl": 5,
+  "primary": null,
+  "secondaries": [
+    "stamina",
+    "crit_rating",
+    "haste_rating"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "identifier": "warchief-savage-waist",
+  "name": "Warchief's Savage Waistguard",
+  "slot": "waist",
+  "elvl": 5,
+  "primary": "strength",
+  "secondaries": [
+    "stamina"
+  ]
+}

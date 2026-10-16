@@ -1,0 +1,12 @@
+{
+  "identifier": "warchief-predators-legs",
+  "name": "Warchief's Predator's Legwraps",
+  "slot": "legs",
+  "elvl": 5,
+  "primary": null,
+  "secondaries": [
+    "stamina",
+    "crit_rating",
+    "haste_rating"
+  ]
+}

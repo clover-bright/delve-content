@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-embroidered-head",
+  "name": "Warchief's Embroidered Circlet",
+  "slot": "head",
+  "elvl": 5,
+  "primary": null,
+  "secondaries": [
+    "stamina",
+    "versatility_rating"
+  ]
+}

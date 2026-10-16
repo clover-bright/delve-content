@@ -1,0 +1,12 @@
+{
+  "identifier": "warchief-offhand-totemic-shield",
+  "name": "Warchief's Totemic Shield",
+  "slot": "off_hand",
+  "elvl": 5,
+  "shield": true,
+  "primary": null,
+  "secondaries": [
+    "mastery_rating",
+    "versatility_rating"
+  ]
+}

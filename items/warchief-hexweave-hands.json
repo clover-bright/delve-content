@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-hexweave-hands",
+  "name": "Warchief's Hexweave Handwraps",
+  "slot": "hands",
+  "elvl": 5,
+  "primary": null,
+  "secondaries": [
+    "stamina",
+    "crit_rating"
+  ]
+}

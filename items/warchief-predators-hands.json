@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-predators-hands",
+  "name": "Warchief's Predator's Claws",
+  "slot": "hands",
+  "elvl": 5,
+  "primary": "agility",
+  "secondaries": [
+    "stamina",
+    "crit_rating"
+  ]
+}

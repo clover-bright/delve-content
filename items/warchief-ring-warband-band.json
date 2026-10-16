@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-ring-warband-band",
+  "name": "Warchief's Warband Band",
+  "slot": "ring",
+  "elvl": 5,
+  "primary": null,
+  "secondaries": [
+    "stamina",
+    "versatility_rating"
+  ]
+}

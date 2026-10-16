@@ -1,0 +1,29 @@
+{
+  "name": "Goblin",
+  "category": "goblins",
+  "description": "A scrappy goblin that stabs anything within reach.",
+  "tokenImageUrl": [
+    "../tokens/unit/goblin-1.webp",
+    "../tokens/unit/goblin-2.webp",
+    "../tokens/unit/goblin-3.webp"
+  ],
+  "tokenRadius": 2.0,
+  "speedFactor": 1.0,
+  "maxHP": 200,
+  "dps": 4.0,
+  "attackSpeed": 1.0,
+  "basicAttackStyle": "sword",
+  "resource": {
+    "name": "energy",
+    "color": "AADD00",
+    "max": 100.0,
+    "defaultValue": 100.0,
+    "returnRate": 10.0,
+    "isFluid": true
+  },
+  "targeting": { "type": "aggroTable" },
+  "tactics": { "type": "randomAvailable" },
+  "powers": [
+    { "$ref": "../abilities/units/goblins/enrage.json", "referenceTo": "ability" }
+  ]
+}

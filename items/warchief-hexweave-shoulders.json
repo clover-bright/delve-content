@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-hexweave-shoulders",
+  "name": "Warchief's Hexweave Amice",
+  "slot": "shoulders",
+  "elvl": 5,
+  "primary": "intellect",
+  "secondaries": [
+    "stamina",
+    "crit_rating"
+  ]
+}

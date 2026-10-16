@@ -1,0 +1,12 @@
+{
+  "identifier": "warchief-scaled-legs",
+  "name": "Warchief's Scaled Leggings",
+  "slot": "legs",
+  "elvl": 5,
+  "primary": "agility",
+  "secondaries": [
+    "stamina",
+    "versatility_rating",
+    "defence_rating"
+  ]
+}

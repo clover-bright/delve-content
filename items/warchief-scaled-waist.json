@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-scaled-waist",
+  "name": "Warchief's Scaled Belt",
+  "slot": "waist",
+  "elvl": 5,
+  "primary": "agility",
+  "secondaries": [
+    "stamina",
+    "versatility_rating"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Firebolt",
+  "iconURL": ":firebolt:",
+  "maxRange": 40,
+  "speed": 40,
+  "castTime": null,
+  "globalCooldown": 1,
+  "costType": "energy",
+  "costAmount": 40,
+  "graphicEffects": [
+    {
+      "sourceURL": "../../../graphics/animations/magic-ball.sprites3x3.png",
+      "duration": null,
+      "from": "self",
+      "to": "affected",
+      "when": "immediate",
+      "condition": "always",
+      "spriteColumns": 3,
+      "spriteRows": 3,
+      "spriteFrameRate": 6,
+      "spriteFrameCount": 9,
+      "color": "#FF2244"
+    }
+  ],
+  "soundEffects": [
+    {
+      "sourceURL": "../../../audio/firespell1.ogg",
+      "duration": 1.8,
+      "location": "self",
+      "when": "immediate",
+      "condition": "always",
+      "volumeScale": 0.1
+    },
+    {
+      "sourceURL": "../../../audio/poof.ogg",
+      "duration": 0.3,
+      "location": "affected",
+      "when": "impact",
+      "condition": "onHit",
+      "impactTiming": "centered"
+    }
+  ],
+  "effects": [
+    {
+      "type": "harm",
+      "affects": "bTarget",
+      "amount": [
+        33,
+        52
+      ],
+      "range": 40,
+      "tags": [
+        "magic",
+        "ranged",
+        "ire"
+      ]
+    },
+    {
+      "type": "status",
+      "affects": "bTarget",
+      "amount": 0,
+      "range": 40,
+      "duration": 6,
+      "status": {
+        "name": "Burning",
+        "shortName": "Burn",
+        "treatAs": "debuff",
+        "stacking": "replace",
+        "effects": [
+          {
+            "type": "recurring",
+            "tickRate": 1,
+            "onTick": "harm",
+            "amount": 1,
+            "school": "magic"
+          }
+        ],
+        "description": "Ongoing fire damage"
+      }
+    },
+    {
+      "type": "resource",
+      "affects": "self",
+      "resourceName": "combo points",
+      "delta": 1
+    }
+  ],
+  "tags": [
+    "harmful",
+    "fire",
+    "magic"
+  ],
+  "description": " "
+}

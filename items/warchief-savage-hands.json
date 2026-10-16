@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-savage-hands",
+  "name": "Warchief's Savage Fists",
+  "slot": "hands",
+  "elvl": 5,
+  "primary": "strength",
+  "secondaries": [
+    "stamina",
+    "crit_rating"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-battle-shoulders",
+  "name": "Warchief's Battle Pauldrons",
+  "slot": "shoulders",
+  "elvl": 5,
+  "primary": "strength",
+  "secondaries": [
+    "stamina",
+    "versatility_rating"
+  ]
+}

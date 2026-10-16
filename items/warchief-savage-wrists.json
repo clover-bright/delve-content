@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-savage-wrists",
+  "name": "Warchief's Savage Vambraces",
+  "slot": "wrists",
+  "elvl": 5,
+  "primary": "strength",
+  "secondaries": [
+    "stamina",
+    "crit_rating"
+  ]
+}

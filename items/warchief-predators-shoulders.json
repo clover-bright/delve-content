@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-predators-shoulders",
+  "name": "Warchief's Predator's Mantle",
+  "slot": "shoulders",
+  "elvl": 5,
+  "primary": "agility",
+  "secondaries": [
+    "stamina",
+    "crit_rating"
+  ]
+}

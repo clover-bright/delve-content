@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-savage-shoulders",
+  "name": "Warchief's Savage Spaulders",
+  "slot": "shoulders",
+  "elvl": 5,
+  "primary": "strength",
+  "secondaries": [
+    "stamina",
+    "crit_rating"
+  ]
+}

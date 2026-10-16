@@ -1,0 +1,12 @@
+{
+  "identifier": "warchief-battle-legs",
+  "name": "Warchief's Battle Legplates",
+  "slot": "legs",
+  "elvl": 5,
+  "primary": "strength",
+  "secondaries": [
+    "stamina",
+    "versatility_rating",
+    "defence_rating"
+  ]
+}

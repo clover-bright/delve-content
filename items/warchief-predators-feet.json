@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-predators-feet",
+  "name": "Warchief's Predator's Treads",
+  "slot": "feet",
+  "elvl": 5,
+  "primary": "agility",
+  "secondaries": [
+    "stamina",
+    "crit_rating"
+  ]
+}

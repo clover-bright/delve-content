@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-predators-wrists",
+  "name": "Warchief's Predator's Bindings",
+  "slot": "wrists",
+  "elvl": 5,
+  "primary": "agility",
+  "secondaries": [
+    "stamina",
+    "crit_rating"
+  ]
+}

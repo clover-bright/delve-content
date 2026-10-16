@@ -1,0 +1,12 @@
+{
+  "identifier": "warchief-onehand-strength",
+  "name": "Warchief's Camp Cleaver",
+  "slot": "one_hand",
+  "weaponType": "axe",
+  "elvl": 5,
+  "primary": "strength",
+  "secondaries": [
+    "stamina",
+    "haste_rating"
+  ]
+}
