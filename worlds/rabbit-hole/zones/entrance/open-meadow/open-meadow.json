@@ -9989,5 +9989,454 @@
         }
       ]
     }
+  ],
+  "stamps": [
+    {
+      "stamp": "forest/burrow",
+      "x": 329.6,
+      "y": 266.2,
+      "scale": 5.64,
+      "rotation": 44.30000000000001
+    },
+    {
+      "stamp": "forest/burrow",
+      "x": 177.5,
+      "y": 150.7,
+      "scale": 7.44
+    },
+    {
+      "stamp": "forest/burrow",
+      "x": 244,
+      "y": 304.6,
+      "scale": 5.25,
+      "rotation": 184.5
+    },
+    {
+      "stamp": "forest/burrow",
+      "x": 135.3,
+      "y": 260.6,
+      "scale": 5.07,
+      "rotation": 342.2
+    },
+    {
+      "stamp": "forest/flower-patch",
+      "x": 144.2,
+      "y": 301.3,
+      "scale": 2.76
+    },
+    {
+      "stamp": "forest/flower-patch",
+      "x": 224.2,
+      "y": 329,
+      "scale": 3.64
+    },
+    {
+      "stamp": "forest/flower-patch",
+      "x": 201.4,
+      "y": 273.9,
+      "scale": 3.34
+    },
+    {
+      "stamp": "forest/flower-patch",
+      "x": 133.8,
+      "y": 214.1,
+      "scale": 5.98
+    },
+    {
+      "stamp": "forest/flower-patch",
+      "x": 210.2,
+      "y": 203.9,
+      "scale": 3.33
+    },
+    {
+      "stamp": "forest/flower-patch",
+      "x": 288.5,
+      "y": 206,
+      "scale": 3.46
+    },
+    {
+      "stamp": "forest/flower-patch",
+      "x": 284.3,
+      "y": 276.8,
+      "scale": 3.89
+    },
+    {
+      "stamp": "forest/bush",
+      "x": 295.1,
+      "y": 178.1,
+      "scale": 2.49
+    },
+    {
+      "stamp": "forest/bush",
+      "x": 174.1,
+      "y": 303.3,
+      "scale": 5.46
+    },
+    {
+      "stamp": "forest/bush",
+      "x": 183.1,
+      "y": 176.1,
+      "scale": 4.39,
+      "rotation": 311.6
+    },
+    {
+      "stamp": "forest/large-mushroom",
+      "x": 265.8,
+      "y": 206.6,
+      "scale": 3.46
+    },
+    {
+      "stamp": "forest/large-mushroom",
+      "x": 152.3,
+      "y": 231.9,
+      "scale": 2.77
+    },
+    {
+      "stamp": "forest/large-mushroom",
+      "x": 238.9,
+      "y": 340.4,
+      "scale": 3.41
+    },
+    {
+      "stamp": "forest/animal-tracks",
+      "x": 148.7,
+      "y": 341.4,
+      "scale": 3.83,
+      "rotation": 326.6
+    },
+    {
+      "stamp": "forest/animal-tracks",
+      "x": 168.6,
+      "y": 332.5,
+      "scale": 3.72,
+      "rotation": 330
+    },
+    {
+      "stamp": "forest/animal-tracks",
+      "x": 194.1,
+      "y": 324.4,
+      "scale": 3.98
+    },
+    {
+      "stamp": "forest/animal-tracks",
+      "x": 262,
+      "y": 290.7,
+      "rotation": 316.3,
+      "scale": 3.53
+    },
+    {
+      "stamp": "forest/animal-tracks",
+      "x": 275.3,
+      "y": 282.9,
+      "scale": 3.39,
+      "rotation": 336.5
+    },
+    {
+      "stamp": "forest/animal-tracks",
+      "x": 306.2,
+      "y": 272,
+      "scale": 3.89,
+      "rotation": 348.9
+    },
+    {
+      "stamp": "forest/animal-tracks",
+      "x": 229.1,
+      "y": 311.6,
+      "scale": 5.26,
+      "rotation": 339
+    },
+    {
+      "stamp": "forest/animal-tracks",
+      "x": 142.4,
+      "y": 274.2,
+      "rotation": 229.4,
+      "scale": 4.04
+    },
+    {
+      "stamp": "forest/animal-tracks",
+      "x": 156.8,
+      "y": 294.2,
+      "rotation": 225.6,
+      "scale": 4.39
+    },
+    {
+      "stamp": "forest/animal-tracks",
+      "x": 152.6,
+      "y": 254,
+      "scale": 3.86,
+      "rotation": 335.6
+    },
+    {
+      "stamp": "forest/animal-tracks",
+      "x": 176.9,
+      "y": 250.2,
+      "rotation": 359.9,
+      "scale": 4.38
+    },
+    {
+      "stamp": "forest/leaf-pile",
+      "x": 379.4,
+      "y": 46.6,
+      "scale": 6.6
+    },
+    {
+      "stamp": "forest/leaf-pile",
+      "x": 386.9,
+      "y": 85.3,
+      "scale": 10.79
+    },
+    {
+      "stamp": "forest/leaf-pile",
+      "x": 392.4,
+      "y": 61.2,
+      "scale": 7.85,
+      "rotation": 34
+    },
+    {
+      "stamp": "forest/leaf-pile",
+      "x": 413.4,
+      "y": 45.1,
+      "scale": 6.5
+    },
+    {
+      "stamp": "forest/leaf-pile",
+      "x": 398.8,
+      "y": 23.9,
+      "scale": 6.29
+    },
+    {
+      "stamp": "forest/lily-pads",
+      "x": 218.3,
+      "y": 244.4,
+      "scale": 8.18,
+      "rotation": 25.69999999999999
+    },
+    {
+      "stamp": "forest/lily-pads",
+      "x": 228.2,
+      "y": 228.6,
+      "scale": 6.71
+    },
+    {
+      "stamp": "forest/moss",
+      "x": 414.4,
+      "y": 65.6,
+      "scale": 6.39,
+      "rotation": 319
+    },
+    {
+      "stamp": "forest/moss",
+      "x": 368.3,
+      "y": 67.7,
+      "scale": 7
+    },
+    {
+      "stamp": "forest/moss",
+      "x": 400.2,
+      "y": 37.5,
+      "scale": 6.21
+    },
+    {
+      "stamp": "forest/moss",
+      "x": 359.2,
+      "y": 97.4
+    },
+    {
+      "stamp": "forest/moss",
+      "x": 341.8,
+      "y": 115.4,
+      "scale": 10.76
+    },
+    {
+      "stamp": "forest/moss",
+      "x": 359.8,
+      "y": 98,
+      "scale": 10.21
+    },
+    {
+      "stamp": "forest/clover-patch",
+      "x": 238,
+      "y": 184.3,
+      "scale": 4.34
+    },
+    {
+      "stamp": "forest/clover-patch",
+      "x": 245.2,
+      "y": 203.7
+    },
+    {
+      "stamp": "forest/clover-patch",
+      "x": 264.8,
+      "y": 163.7
+    },
+    {
+      "stamp": "forest/clover-patch",
+      "x": 148.7,
+      "y": 178.1,
+      "scale": 5.53
+    },
+    {
+      "stamp": "forest/clover-patch",
+      "x": 119.3,
+      "y": 237.2,
+      "scale": 5.07,
+      "rotation": 49.19999999999999
+    },
+    {
+      "stamp": "forest/clover-patch",
+      "x": 222.2,
+      "y": 301.1,
+      "scale": 5.72
+    },
+    {
+      "stamp": "forest/clover-patch",
+      "x": 289.9,
+      "y": 306.2,
+      "scale": 6.16
+    },
+    {
+      "stamp": "forest/stones",
+      "x": 243.2,
+      "y": 14.4,
+      "scale": 7.85,
+      "rotation": 54.39999999999998
+    },
+    {
+      "stamp": "forest/stones",
+      "x": 256,
+      "y": 42.7,
+      "scale": 5.66
+    },
+    {
+      "stamp": "forest/stones",
+      "x": 250.7,
+      "y": 77.8,
+      "scale": 7.6,
+      "rotation": 63.30000000000001
+    },
+    {
+      "stamp": "forest/stones",
+      "x": 263.4,
+      "y": 116.4
+    },
+    {
+      "stamp": "forest/stones",
+      "x": 269.7,
+      "y": 121.6,
+      "scale": 8.44,
+      "rotation": 72
+    },
+    {
+      "stamp": "forest/stones",
+      "x": 259,
+      "y": 95.8,
+      "scale": 2.72
+    },
+    {
+      "stamp": "forest/stones",
+      "x": 259.4,
+      "y": 149.9,
+      "scale": 5.97,
+      "rotation": 310.5
+    },
+    {
+      "stamp": "forest/stones",
+      "x": 231.8,
+      "y": 165.1,
+      "scale": 7
+    },
+    {
+      "stamp": "forest/stones",
+      "x": 201.4,
+      "y": 185,
+      "rotation": 298.9,
+      "scale": 6.4
+    },
+    {
+      "stamp": "forest/stones",
+      "x": 182.1,
+      "y": 214.3,
+      "scale": 7.13,
+      "rotation": 279.3
+    },
+    {
+      "stamp": "forest/stones",
+      "x": 174.7,
+      "y": 238.4,
+      "scale": 5.12
+    },
+    {
+      "stamp": "forest/stones",
+      "x": 173,
+      "y": 265.5,
+      "scale": 5.42
+    },
+    {
+      "stamp": "forest/stones",
+      "x": 159.5,
+      "y": 284.3,
+      "scale": 5.99
+    },
+    {
+      "stamp": "forest/stones",
+      "x": 141.6,
+      "y": 310.8,
+      "scale": 7.33
+    },
+    {
+      "stamp": "forest/stones",
+      "x": 128.1,
+      "y": 331.3,
+      "scale": 3.57
+    },
+    {
+      "stamp": "forest/stones",
+      "x": 110.5,
+      "y": 339.7,
+      "scale": 5.87,
+      "rotation": 297.7
+    },
+    {
+      "stamp": "forest/stones",
+      "x": 98.8,
+      "y": 376.8,
+      "scale": 7.53,
+      "rotation": 286.4
+    },
+    {
+      "stamp": "forest/stones",
+      "x": 78.4,
+      "y": 405,
+      "scale": 8.77
+    },
+    {
+      "stamp": "forest/cattails",
+      "x": 96.8,
+      "y": 135.1,
+      "scale": 3.76
+    },
+    {
+      "stamp": "forest/cattails",
+      "x": 121.6,
+      "y": 138.8
+    },
+    {
+      "stamp": "forest/cattails",
+      "x": 127,
+      "y": 143.6,
+      "scale": 2.29
+    },
+    {
+      "stamp": "forest/cattails",
+      "x": 88.4,
+      "y": 108.6,
+      "scale": 3.61
+    },
+    {
+      "stamp": "forest/moss",
+      "x": 104.9,
+      "y": 126.6,
+      "scale": 6.83
+    }
   ]
 }

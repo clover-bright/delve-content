@@ -17,5 +17,9 @@
   },
   "openConnections": {
     "open-meadow/north": "dense bushes"
+  },
+  "stamps": {
+    "$ref": "./stamps.json",
+    "referenceTo": "stamps"
   }
 }
