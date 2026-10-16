@@ -1,0 +1,12 @@
+{
+  "identifier": "warchief-savage-breastplate",
+  "name": "Warchief's Savage Breastplate",
+  "slot": "chest",
+  "elvl": 5,
+  "primary": "strength",
+  "secondaries": [
+    "stamina",
+    "crit_rating",
+    "haste_rating"
+  ]
+}

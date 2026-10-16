@@ -1,0 +1,12 @@
+{
+  "identifier": "warchief-main-intellect",
+  "name": "Warchief's Runeblade",
+  "slot": "main_hand",
+  "weaponType": "sword",
+  "elvl": 5,
+  "primary": "intellect",
+  "secondaries": [
+    "stamina",
+    "crit_rating"
+  ]
+}

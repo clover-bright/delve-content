@@ -1,0 +1,12 @@
+{
+  "identifier": "warchief-neck-beaded-necklace",
+  "name": "Warchief's Beaded Necklace",
+  "slot": "neck",
+  "elvl": 5,
+  "primary": null,
+  "secondaries": [
+    "stamina",
+    "versatility_rating",
+    "defence_rating"
+  ]
+}

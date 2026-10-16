@@ -1,0 +1,10 @@
+{
+  "identifier": "warchief-scaled-shoulders",
+  "name": "Warchief's Scaled Shoulderguards",
+  "slot": "shoulders",
+  "elvl": 5,
+  "primary": null,
+  "secondaries": [
+    "stamina"
+  ]
+}

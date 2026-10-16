@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-embroidered-feet",
+  "name": "Warchief's Embroidered Slippers",
+  "slot": "feet",
+  "elvl": 5,
+  "primary": "intellect",
+  "secondaries": [
+    "stamina",
+    "versatility_rating"
+  ]
+}

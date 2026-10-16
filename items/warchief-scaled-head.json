@@ -1,0 +1,12 @@
+{
+  "identifier": "warchief-scaled-head",
+  "name": "Warchief's Scaled Hood",
+  "slot": "head",
+  "elvl": 5,
+  "primary": "agility",
+  "secondaries": [
+    "stamina",
+    "versatility_rating",
+    "defence_rating"
+  ]
+}

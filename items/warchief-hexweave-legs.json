@@ -1,0 +1,12 @@
+{
+  "identifier": "warchief-hexweave-legs",
+  "name": "Warchief's Hexweave Leggings",
+  "slot": "legs",
+  "elvl": 5,
+  "primary": "intellect",
+  "secondaries": [
+    "stamina",
+    "crit_rating",
+    "haste_rating"
+  ]
+}

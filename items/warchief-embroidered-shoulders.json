@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-embroidered-shoulders",
+  "name": "Warchief's Embroidered Shawl",
+  "slot": "shoulders",
+  "elvl": 5,
+  "primary": "intellect",
+  "secondaries": [
+    "stamina",
+    "versatility_rating"
+  ]
+}

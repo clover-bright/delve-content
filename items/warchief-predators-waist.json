@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-predators-waist",
+  "name": "Warchief's Predator's Cord",
+  "slot": "waist",
+  "elvl": 5,
+  "primary": "agility",
+  "secondaries": [
+    "stamina",
+    "crit_rating"
+  ]
+}

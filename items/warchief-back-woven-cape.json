@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-back-woven-cape",
+  "name": "Warchief's Woven Cape",
+  "slot": "back",
+  "elvl": 5,
+  "primary": null,
+  "secondaries": [
+    "stamina",
+    "versatility_rating"
+  ]
+}

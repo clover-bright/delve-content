@@ -1,0 +1,12 @@
+{
+  "identifier": "warchief-neck-amulet",
+  "name": "Warchief's Amulet",
+  "slot": "neck",
+  "elvl": 5,
+  "primary": null,
+  "secondaries": [
+    "stamina",
+    "mastery_rating",
+    "versatility_rating"
+  ]
+}

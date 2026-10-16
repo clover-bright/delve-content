@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-battle-wrists",
+  "name": "Warchief's Battle Bracers",
+  "slot": "wrists",
+  "elvl": 5,
+  "primary": "strength",
+  "secondaries": [
+    "stamina",
+    "versatility_rating"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "identifier": "warchief-embroidered-robe",
+  "name": "Warchief's Embroidered Robe",
+  "slot": "chest",
+  "elvl": 5,
+  "primary": "intellect",
+  "secondaries": [
+    "stamina",
+    "versatility_rating",
+    "defence_rating"
+  ]
+}

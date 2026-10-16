@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-offhand-warding-tome",
+  "name": "Warchief's Warding Tome",
+  "slot": "off_hand",
+  "elvl": 5,
+  "primary": null,
+  "secondaries": [
+    "versatility_rating",
+    "defence_rating"
+  ]
+}

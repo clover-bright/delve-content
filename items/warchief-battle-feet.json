@@ -1,0 +1,11 @@
+{
+  "identifier": "warchief-battle-feet",
+  "name": "Warchief's Battle Sabatons",
+  "slot": "feet",
+  "elvl": 5,
+  "primary": "strength",
+  "secondaries": [
+    "stamina",
+    "versatility_rating"
+  ]
+}
