@@ -1,0 +1,15 @@
+{
+  "name": "clovers-world",
+  "description": null,
+  "thumbnailUrl": null,
+  "elevationRange": null,
+  "zones": {
+    "hello": {
+      "path": "./zones/hello/hello.json",
+      "name": "hi!!!!!!!!",
+      "description": null
+    }
+  },
+  "worldLinks": [],
+  "entryPoints": {}
+}

@@ -1,0 +1,17 @@
+{
+  "name": "hi!!!!!!!!",
+  "description": null,
+  "elvl": 0,
+  "private": false,
+  "maps": [
+    {
+      "$ref": "./first/first.json",
+      "referenceTo": "map"
+    }
+  ],
+  "unitTypes": {},
+  "items": {},
+  "zoneLinks": [],
+  "entryPoints": {},
+  "openConnections": {}
+}
