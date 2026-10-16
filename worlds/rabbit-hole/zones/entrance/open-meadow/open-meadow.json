@@ -1115,6 +1115,17 @@
       },
       "fuzzRadius": 15,
       "fuzzAngle": 90
+    },
+    {
+      "identifier": "hole",
+      "type": "point",
+      "position": {
+        "x": 176.45282436787332,
+        "y": 352.28648430974215,
+        "angle": 0
+      },
+      "fuzzRadius": 2,
+      "fuzzAngle": 90
     }
   ],
   "units": [],
