@@ -1,3 +1,12 @@
 {
-  "positions": {}
+  "positions": {
+    "entryPoint:open-meadow/starting": {
+      "x": -52.16666666666668,
+      "y": 58.166666666666686
+    },
+    "openConnection:open-meadow/north": {
+      "x": -0.3333333333333286,
+      "y": -88
+    }
+  }
 }

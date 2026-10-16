@@ -12,6 +12,10 @@
   "unitTypes": {},
   "items": {},
   "zoneLinks": [],
-  "entryPoints": {},
-  "openConnections": {}
+  "entryPoints": {
+    "open-meadow/starting": null
+  },
+  "openConnections": {
+    "open-meadow/north": "dense bushes"
+  }
 }
