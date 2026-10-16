@@ -1,0 +1,286 @@
+{
+  "identifier": "den-1",
+  "name": "den 1",
+  "elvl": null,
+  "imageUrl": null,
+  "pixelDimensions": null,
+  "feetDimensions": {
+    "width": 209.289,
+    "height": 182.5
+  },
+  "lighting": "daylight",
+  "barriers": [
+    {
+      "type": "wall",
+      "locations": [
+        {
+          "x": 136.36,
+          "y": 125.74
+        },
+        {
+          "x": 130.67,
+          "y": 126.75
+        },
+        {
+          "x": 120.6,
+          "y": 122.8
+        },
+        {
+          "x": 100.89,
+          "y": 119.89
+        },
+        {
+          "x": 87.88,
+          "y": 120.19
+        },
+        {
+          "x": 75.47,
+          "y": 112.6
+        },
+        {
+          "x": 72.77,
+          "y": 104.01
+        },
+        {
+          "x": 74.13,
+          "y": 90.32
+        },
+        {
+          "x": 85.92,
+          "y": 74.15
+        },
+        {
+          "x": 86.31,
+          "y": 64.84
+        },
+        {
+          "x": 77.66,
+          "y": 51.83
+        },
+        {
+          "x": 68.07,
+          "y": 54.04
+        },
+        {
+          "x": 60.56,
+          "y": 50.13
+        },
+        {
+          "x": 58.17,
+          "y": 32.42
+        },
+        {
+          "x": 67.44,
+          "y": 26.56
+        },
+        {
+          "x": 71.14,
+          "y": 27.49
+        },
+        {
+          "x": 77.16,
+          "y": 36.19
+        },
+        {
+          "x": 102.98,
+          "y": 51.21
+        },
+        {
+          "x": 106.26,
+          "y": 61.45
+        },
+        {
+          "x": 115.91,
+          "y": 69.11
+        },
+        {
+          "x": 118.3,
+          "y": 73.94
+        },
+        {
+          "x": 131.3,
+          "y": 72.73
+        },
+        {
+          "x": 141.72,
+          "y": 79.2
+        }
+      ]
+    },
+    {
+      "type": "wall",
+      "locations": [
+        {
+          "x": 141.72,
+          "y": 79.2
+        },
+        {
+          "x": 132.44,
+          "y": 79.94
+        },
+        {
+          "x": 139.97,
+          "y": 89.58
+        },
+        {
+          "x": 136.49,
+          "y": 95.78
+        },
+        {
+          "x": 138.27,
+          "y": 102.19
+        },
+        {
+          "x": 135.44,
+          "y": 108.75
+        },
+        {
+          "x": 136.36,
+          "y": 125.74
+        }
+      ],
+      "blocksSight": false
+    },
+    {
+      "type": "wall",
+      "locations": [
+        {
+          "x": 141.72,
+          "y": 79.2
+        },
+        {
+          "x": 153.09,
+          "y": 84.23
+        },
+        {
+          "x": 161.3,
+          "y": 97.72
+        },
+        {
+          "x": 162.52,
+          "y": 104.61
+        },
+        {
+          "x": 154.38,
+          "y": 120.51
+        },
+        {
+          "x": 144.69,
+          "y": 126.74
+        },
+        {
+          "x": 136.36,
+          "y": 125.74
+        }
+      ]
+    },
+    {
+      "type": "wall",
+      "locations": [
+        {
+          "x": 149.83,
+          "y": 94.5
+        },
+        {
+          "x": 149.81,
+          "y": 93.47
+        },
+        {
+          "x": 150.77,
+          "y": 92.98
+        },
+        {
+          "x": 151.73,
+          "y": 93.48
+        },
+        {
+          "x": 151.73,
+          "y": 94.45
+        },
+        {
+          "x": 150.79,
+          "y": 94.97
+        },
+        {
+          "x": 149.83,
+          "y": 94.5
+        }
+      ],
+      "blocksSight": false
+    }
+  ],
+  "connections": [
+    {
+      "identifier": "connection-1",
+      "type": "point",
+      "position": {
+        "x": 68.64490570354994,
+        "y": 41.60607618487274,
+        "angle": 0
+      },
+      "fuzzRadius": 2,
+      "fuzzAngle": 90
+    }
+  ],
+  "units": [],
+  "cellMap": {
+    "version": 1,
+    "theme": "cave",
+    "grid": {
+      "type": "hex",
+      "cols": 48,
+      "rows": 36
+    },
+    "seed": 1,
+    "cells": [
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTT..wwwTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTT%%%%%%%%~~~~wwwwwTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTT%%%%%%%%%~~~~~wwwwwTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTT%%%%%%.%.~~~~~wwwwwwTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTT%%%%.........~~wwwwwTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTT%%%%........~~wwwwwwTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTT%%.%........~~~ww.wTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTT............~~~wwwTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTT...........~.wwwwTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTT..........~~w.wTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTT.......T...TTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTT.......TTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTT.....TTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTT.....TTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTT.TTT.....TTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTT..........TTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTT........TTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTT......TTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTT....TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTT...TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT"
+    ],
+    "trails": [],
+    "colors": {
+      "water": "#243b82",
+      "pool": "#443696"
+    }
+  },
+  "thumbnailUrl": "den-1.thumb.webp",
+  "fillPoints": [
+    {
+      "x": 146.1,
+      "y": 112.26
+    }
+  ]
+}
