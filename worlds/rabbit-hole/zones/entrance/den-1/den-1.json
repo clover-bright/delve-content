@@ -273,7 +273,15 @@
     "trails": [],
     "colors": {
       "water": "#243b82",
-      "pool": "#443696"
+      "pool": "#443696",
+      "tallGrass": "#008140",
+      "tuft": "#419c57",
+      "meadow": "#523b2b",
+      "marsh": "#775222",
+      "forest": "#4e2d41",
+      "tallTuft": "#b5d19e",
+      "worn": "#76bb7a",
+      "ink": "#231205"
     }
   },
   "thumbnailUrl": "den-1.thumb.webp",
@@ -281,6 +289,117 @@
     {
       "x": 146.1,
       "y": 112.26
+    }
+  ],
+  "stamps": [
+    {
+      "stamp": "forest/moss",
+      "x": 87.2,
+      "y": 85.7,
+      "scale": 3.29
+    },
+    {
+      "stamp": "forest/moss",
+      "x": 91,
+      "y": 68.7,
+      "rotation": 298.1,
+      "scale": 4.08
+    },
+    {
+      "stamp": "forest/moss",
+      "x": 75.7,
+      "y": 81.3,
+      "scale": 2.09,
+      "rotation": 260.3
+    },
+    {
+      "stamp": "forest/moss",
+      "x": 82.2,
+      "y": 73.4,
+      "scale": 2.01
+    },
+    {
+      "stamp": "forest/animal-tracks",
+      "x": 113.7,
+      "y": 68.2,
+      "scale": 2.43
+    },
+    {
+      "stamp": "forest/animal-tracks",
+      "x": 85.4,
+      "y": 94,
+      "scale": 2.5,
+      "rotation": 60.19999999999999
+    },
+    {
+      "stamp": "forest/roots",
+      "x": 90.2,
+      "y": 115.9
+    },
+    {
+      "stamp": "forest/roots",
+      "x": 114.5,
+      "y": 107.3,
+      "rotation": 211.9
+    },
+    {
+      "stamp": "forest/leaf-pile",
+      "x": 101.3,
+      "y": 78.5,
+      "scale": 3.9
+    },
+    {
+      "stamp": "forest/leaf-pile",
+      "x": 77.7,
+      "y": 81.1,
+      "scale": 2.16
+    },
+    {
+      "stamp": "forest/leaf-pile",
+      "x": 88.6,
+      "y": 67.6,
+      "scale": 2
+    },
+    {
+      "stamp": "forest/berry-bush",
+      "x": 131.7,
+      "y": 60.9,
+      "scale": 2.48
+    },
+    {
+      "stamp": "forest/large-mushroom",
+      "x": 106.8,
+      "y": 116.1
+    },
+    {
+      "stamp": "forest/large-mushroom",
+      "x": 85.8,
+      "y": 104.4
+    },
+    {
+      "stamp": "forest/large-mushroom",
+      "x": 90.2,
+      "y": 135.8
+    },
+    {
+      "stamp": "forest/mushroom-cluster",
+      "x": 98.1,
+      "y": 124.2
+    },
+    {
+      "stamp": "forest/mushroom-cluster",
+      "x": 90.1,
+      "y": 98.9
+    },
+    {
+      "stamp": "forest/mushroom-cluster",
+      "x": 118,
+      "y": 99.6
+    },
+    {
+      "stamp": "forest/mushroom-cluster",
+      "x": 102.9,
+      "y": 94.8
     }
   ]
 }
