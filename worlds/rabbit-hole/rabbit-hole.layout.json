@@ -1,8 +1,8 @@
 {
   "positions": {
     "entrance": {
-      "x": 0,
-      "y": -0.16666666666666666
+      "x": -10.166666666666666,
+      "y": 21.333333333333336
     },
     "entryPoint:entrance/open-meadow/starting": {
       "x": -64.5,

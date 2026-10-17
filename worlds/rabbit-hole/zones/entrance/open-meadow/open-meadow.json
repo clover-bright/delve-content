@@ -1128,7 +1128,23 @@
       "fuzzAngle": 90
     }
   ],
-  "units": [],
+  "units": [
+    {
+      "identifier": "giant-frog-oygotx",
+      "unitType": "giant-frog",
+      "position": {
+        "x": 95.68124669802795,
+        "y": 383.6008650025212,
+        "angle": 0
+      },
+      "hostility": "hostile",
+      "currentHpFraction": 1,
+      "movement": {
+        "type": "still"
+      },
+      "groupIdentifier": "group-jzmeyy"
+    }
+  ],
   "cellMap": {
     "version": 1,
     "theme": "glade",

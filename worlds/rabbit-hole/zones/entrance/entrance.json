@@ -13,7 +13,12 @@
       "referenceTo": "map"
     }
   ],
-  "unitTypes": {},
+  "unitTypes": {
+    "giant-frog": {
+      "$ref": "../../unit_types/giant-frog.json",
+      "referenceTo": "unit_type"
+    }
+  },
   "items": {},
   "zoneLinks": [
     {
