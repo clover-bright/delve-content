@@ -10693,7 +10693,8 @@
                 "next": "node-yxnmua"
               },
               {
-                "text": "yuck! i wouldn't even eat carrot stew!"
+                "text": "yuck! i wouldn't even eat carrot stew!",
+                "next": "node-hidgep"
               }
             ]
           },
@@ -10705,6 +10706,9 @@
           },
           "node-vxncbw": {
             "text": "you'll regret this you monster!"
+          },
+          "node-hidgep": {
+            "text": "sob sob sob sob..........."
           }
         }
       }
