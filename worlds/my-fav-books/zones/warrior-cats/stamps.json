@@ -1,0 +1,1821 @@
+{
+  "elves": {
+    "name": "Elves",
+    "imageUrl": "../../graphics/stamps/elves.png",
+    "license": "CC0-1.0",
+    "stamps": {
+      "moon-basin": {
+        "name": "Moon basin",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 510,
+            "y": 0,
+            "width": 120,
+            "height": 120
+          }
+        ]
+      },
+      "fountain": {
+        "name": "Fountain",
+        "feetWidth": 7,
+        "frames": [
+          {
+            "x": 194,
+            "y": 0,
+            "width": 168,
+            "height": 168
+          }
+        ]
+      },
+      "standing-stone": {
+        "name": "Carved standing stone",
+        "feetWidth": 3,
+        "frames": [
+          {
+            "x": 754,
+            "y": 0,
+            "width": 72,
+            "height": 96
+          }
+        ]
+      },
+      "archery-target": {
+        "name": "Archery target",
+        "feetWidth": 4.4,
+        "frames": [
+          {
+            "x": 1077,
+            "y": 0,
+            "width": 106,
+            "height": 82
+          }
+        ]
+      },
+      "lamp-post": {
+        "name": "Lamp post",
+        "feetWidth": 2.4,
+        "frames": [
+          {
+            "x": 1685,
+            "y": 0,
+            "width": 58,
+            "height": 58
+          }
+        ]
+      },
+      "curved-bench": {
+        "name": "Curved bench",
+        "feetWidth": 6.8,
+        "frames": [
+          {
+            "x": 1331,
+            "y": 0,
+            "width": 163,
+            "height": 68
+          }
+        ]
+      },
+      "flower-bed": {
+        "name": "Flower bed",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 632,
+            "y": 0,
+            "width": 120,
+            "height": 120
+          }
+        ]
+      },
+      "leaf-mosaic": {
+        "name": "Leaf mosaic",
+        "feetWidth": 8,
+        "frames": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "bow-rack": {
+        "name": "Bow rack",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 828,
+            "y": 0,
+            "width": 144,
+            "height": 92
+          }
+        ]
+      },
+      "herb-planters": {
+        "name": "Herb planters",
+        "feetWidth": 4.2,
+        "frames": [
+          {
+            "x": 974,
+            "y": 0,
+            "width": 101,
+            "height": 92
+          }
+        ]
+      },
+      "stepping-stones": {
+        "name": "Stepping stones",
+        "feetWidth": 7.8,
+        "frames": [
+          {
+            "x": 1496,
+            "y": 0,
+            "width": 187,
+            "height": 68
+          }
+        ]
+      },
+      "cushions": {
+        "name": "Cushions and low table",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 364,
+            "y": 0,
+            "width": 144,
+            "height": 144
+          }
+        ]
+      },
+      "reading-table": {
+        "name": "Reading table",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 1185,
+            "y": 0,
+            "width": 144,
+            "height": 77
+          }
+        ]
+      }
+    }
+  },
+  "camp": {
+    "name": "Camp",
+    "imageUrl": "../../graphics/stamps/camp.png",
+    "license": "CC0-1.0",
+    "stamps": {
+      "campfire": {
+        "name": "Campfire",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 0,
+            "y": 386,
+            "width": 120,
+            "height": 120
+          }
+        ]
+      },
+      "tent": {
+        "name": "Tent",
+        "feetWidth": 14,
+        "frames": [
+          {
+            "x": 530,
+            "y": 0,
+            "width": 336,
+            "height": 264
+          }
+        ]
+      },
+      "table": {
+        "name": "Table and benches",
+        "feetWidth": 7,
+        "frames": [
+          {
+            "x": 1246,
+            "y": 0,
+            "width": 168,
+            "height": 144
+          }
+        ]
+      },
+      "log": {
+        "name": "Log",
+        "feetWidth": 7.6,
+        "frames": [
+          {
+            "x": 1407,
+            "y": 386,
+            "width": 182,
+            "height": 53
+          },
+          {
+            "x": 1591,
+            "y": 386,
+            "width": 182,
+            "height": 53
+          }
+        ]
+      },
+      "pond": {
+        "name": "Pond",
+        "feetWidth": 22,
+        "frames": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 528,
+            "height": 384
+          }
+        ]
+      },
+      "signpost": {
+        "name": "Signpost",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 1163,
+            "y": 386,
+            "width": 120,
+            "height": 72
+          }
+        ]
+      },
+      "footprints": {
+        "name": "Footprints",
+        "feetWidth": 4,
+        "frames": [
+          {
+            "x": 868,
+            "y": 0,
+            "width": 96,
+            "height": 168
+          },
+          {
+            "x": 966,
+            "y": 0,
+            "width": 96,
+            "height": 168
+          },
+          {
+            "x": 1064,
+            "y": 0,
+            "width": 96,
+            "height": 168
+          }
+        ]
+      },
+      "small-tent": {
+        "name": "Small tent",
+        "feetWidth": 8,
+        "frames": [
+          {
+            "x": 1610,
+            "y": 0,
+            "width": 192,
+            "height": 140
+          }
+        ]
+      },
+      "lean-to": {
+        "name": "Lean-to",
+        "feetWidth": 8,
+        "frames": [
+          {
+            "x": 1416,
+            "y": 0,
+            "width": 192,
+            "height": 144
+          }
+        ]
+      },
+      "bedroll-open": {
+        "name": "Bedroll, open",
+        "feetWidth": 3.4,
+        "frames": [
+          {
+            "x": 1162,
+            "y": 0,
+            "width": 82,
+            "height": 164
+          }
+        ]
+      },
+      "backpack": {
+        "name": "Backpack",
+        "feetWidth": 3.2,
+        "frames": [
+          {
+            "x": 1084,
+            "y": 386,
+            "width": 77,
+            "height": 73
+          }
+        ]
+      },
+      "camp-stool": {
+        "name": "Camp stool",
+        "feetWidth": 2.2,
+        "frames": [
+          {
+            "x": 1775,
+            "y": 386,
+            "width": 53,
+            "height": 53
+          }
+        ]
+      },
+      "cooking-tripod": {
+        "name": "Cooking tripod",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 122,
+            "y": 386,
+            "width": 120,
+            "height": 120
+          }
+        ]
+      },
+      "cold-fire-pit": {
+        "name": "Cold fire pit",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 244,
+            "y": 386,
+            "width": 120,
+            "height": 120
+          }
+        ]
+      },
+      "firewood": {
+        "name": "Firewood stack",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 790,
+            "y": 386,
+            "width": 120,
+            "height": 101
+          }
+        ]
+      },
+      "hide-rug": {
+        "name": "Hide rug",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 366,
+            "y": 386,
+            "width": 120,
+            "height": 120
+          }
+        ]
+      },
+      "lantern": {
+        "name": "Lantern",
+        "feetWidth": 2,
+        "frames": [
+          {
+            "x": 1830,
+            "y": 386,
+            "width": 48,
+            "height": 48
+          }
+        ]
+      },
+      "camp-clutter": {
+        "name": "Camp clutter",
+        "feetWidth": 3.2,
+        "frames": [
+          {
+            "x": 912,
+            "y": 386,
+            "width": 77,
+            "height": 92
+          }
+        ]
+      },
+      "drying-rack": {
+        "name": "Drying rack",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 1285,
+            "y": 386,
+            "width": 120,
+            "height": 63
+          }
+        ]
+      },
+      "chopping-block": {
+        "name": "Chopping block",
+        "feetWidth": 3.8,
+        "frames": [
+          {
+            "x": 991,
+            "y": 386,
+            "width": 91,
+            "height": 77
+          }
+        ]
+      },
+      "supplies": {
+        "name": "Supplies",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 488,
+            "y": 386,
+            "width": 120,
+            "height": 111
+          }
+        ]
+      },
+      "tarp": {
+        "name": "Gear under tarp",
+        "feetWidth": 6.4,
+        "frames": [
+          {
+            "x": 1804,
+            "y": 0,
+            "width": 154,
+            "height": 121
+          }
+        ]
+      },
+      "weapon-stack": {
+        "name": "Spears and bow",
+        "feetWidth": 7.4,
+        "frames": [
+          {
+            "x": 610,
+            "y": 386,
+            "width": 178,
+            "height": 106
+          }
+        ]
+      }
+    }
+  },
+  "cave": {
+    "name": "Cave",
+    "imageUrl": "../../graphics/stamps/cave.png",
+    "license": "CC0-1.0",
+    "stamps": {
+      "stalagmite": {
+        "name": "Stalagmite",
+        "feetWidth": 4,
+        "frames": [
+          {
+            "x": 372,
+            "y": 242,
+            "width": 96,
+            "height": 96
+          }
+        ]
+      },
+      "stalagmite-cluster": {
+        "name": "Stalagmite cluster",
+        "feetWidth": 9,
+        "frames": [
+          {
+            "x": 242,
+            "y": 0,
+            "width": 216,
+            "height": 183
+          }
+        ]
+      },
+      "floor-hole": {
+        "name": "Floor hole",
+        "feetWidth": 7.2,
+        "frames": [
+          {
+            "x": 460,
+            "y": 0,
+            "width": 173,
+            "height": 164
+          }
+        ]
+      },
+      "crystal-cluster": {
+        "name": "Crystal cluster",
+        "feetWidth": 4.8,
+        "frames": [
+          {
+            "x": 1679,
+            "y": 0,
+            "width": 115,
+            "height": 115
+          }
+        ]
+      },
+      "crystal-rock": {
+        "name": "Crystal-veined rock",
+        "feetWidth": 6.6,
+        "frames": [
+          {
+            "x": 1232,
+            "y": 0,
+            "width": 158,
+            "height": 139
+          }
+        ]
+      },
+      "giant-mushroom": {
+        "name": "Giant cave mushroom",
+        "feetWidth": 10,
+        "frames": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 240,
+            "height": 240
+          }
+        ]
+      },
+      "glowcaps": {
+        "name": "Glowing mushrooms",
+        "feetWidth": 3.6,
+        "frames": [
+          {
+            "x": 1380,
+            "y": 242,
+            "width": 86,
+            "height": 72
+          }
+        ]
+      },
+      "mycelium": {
+        "name": "Mycelium patch",
+        "feetWidth": 6.4,
+        "frames": [
+          {
+            "x": 635,
+            "y": 0,
+            "width": 154,
+            "height": 154
+          }
+        ]
+      },
+      "spider-web": {
+        "name": "Spider web",
+        "feetWidth": 10,
+        "frames": [
+          {
+            "x": 470,
+            "y": 242,
+            "width": 240,
+            "height": 96
+          }
+        ]
+      },
+      "cocoon": {
+        "name": "Cocoon",
+        "feetWidth": 6.4,
+        "frames": [
+          {
+            "x": 0,
+            "y": 242,
+            "width": 154,
+            "height": 97
+          }
+        ]
+      },
+      "egg-cluster": {
+        "name": "Egg cluster",
+        "feetWidth": 4.4,
+        "frames": [
+          {
+            "x": 156,
+            "y": 242,
+            "width": 106,
+            "height": 97
+          }
+        ]
+      },
+      "rubble": {
+        "name": "Rubble pile",
+        "feetWidth": 7.2,
+        "frames": [
+          {
+            "x": 1057,
+            "y": 0,
+            "width": 173,
+            "height": 145
+          }
+        ]
+      },
+      "rockfall": {
+        "name": "Rockfall",
+        "feetWidth": 11,
+        "frames": [
+          {
+            "x": 791,
+            "y": 0,
+            "width": 264,
+            "height": 154
+          }
+        ]
+      },
+      "minecart": {
+        "name": "Minecart",
+        "feetWidth": 5.6,
+        "frames": [
+          {
+            "x": 712,
+            "y": 242,
+            "width": 134,
+            "height": 96
+          }
+        ]
+      },
+      "mine-track": {
+        "name": "Mine track",
+        "feetWidth": 12,
+        "frames": [
+          {
+            "x": 848,
+            "y": 242,
+            "width": 288,
+            "height": 87
+          }
+        ]
+      },
+      "timber-post": {
+        "name": "Timber post",
+        "feetWidth": 2,
+        "frames": [
+          {
+            "x": 1468,
+            "y": 242,
+            "width": 48,
+            "height": 48
+          }
+        ]
+      },
+      "mining-tools": {
+        "name": "Mining tools",
+        "feetWidth": 5.2,
+        "frames": [
+          {
+            "x": 1552,
+            "y": 0,
+            "width": 125,
+            "height": 121
+          }
+        ]
+      },
+      "winch": {
+        "name": "Winch",
+        "feetWidth": 6.6,
+        "frames": [
+          {
+            "x": 1392,
+            "y": 0,
+            "width": 158,
+            "height": 135
+          }
+        ]
+      },
+      "ore-chute": {
+        "name": "Ore chute",
+        "feetWidth": 10,
+        "frames": [
+          {
+            "x": 1138,
+            "y": 242,
+            "width": 240,
+            "height": 84
+          }
+        ]
+      },
+      "bones": {
+        "name": "Bones",
+        "feetWidth": 4.6,
+        "frames": [
+          {
+            "x": 1796,
+            "y": 0,
+            "width": 110,
+            "height": 106
+          }
+        ]
+      },
+      "bloodstain": {
+        "name": "Bloodstain",
+        "feetWidth": 4.4,
+        "frames": [
+          {
+            "x": 264,
+            "y": 242,
+            "width": 106,
+            "height": 97
+          }
+        ]
+      }
+    }
+  },
+  "dwarves": {
+    "name": "Dwarves",
+    "imageUrl": "../../graphics/stamps/dwarves.png",
+    "license": "CC0-1.0",
+    "stamps": {
+      "anvil": {
+        "name": "Anvil",
+        "feetWidth": 4,
+        "frames": [
+          {
+            "x": 1544,
+            "y": 0,
+            "width": 96,
+            "height": 68
+          }
+        ]
+      },
+      "forge": {
+        "name": "Forge",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 855,
+            "y": 0,
+            "width": 144,
+            "height": 93
+          }
+        ]
+      },
+      "quench-trough": {
+        "name": "Quench trough",
+        "feetWidth": 4.8,
+        "frames": [
+          {
+            "x": 1642,
+            "y": 0,
+            "width": 115,
+            "height": 48
+          }
+        ]
+      },
+      "ale-barrels": {
+        "name": "Ale barrels",
+        "feetWidth": 5.2,
+        "frames": [
+          {
+            "x": 728,
+            "y": 0,
+            "width": 125,
+            "height": 101
+          }
+        ]
+      },
+      "feast-table": {
+        "name": "Feast table",
+        "feetWidth": 10,
+        "frames": [
+          {
+            "x": 340,
+            "y": 0,
+            "width": 240,
+            "height": 116
+          }
+        ]
+      },
+      "rune-stone": {
+        "name": "Rune stone",
+        "feetWidth": 3.6,
+        "frames": [
+          {
+            "x": 1001,
+            "y": 0,
+            "width": 86,
+            "height": 86
+          }
+        ]
+      },
+      "floor-inlay": {
+        "name": "Floor inlay",
+        "feetWidth": 8,
+        "frames": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "brazier": {
+        "name": "Brazier",
+        "feetWidth": 2.8,
+        "frames": [
+          {
+            "x": 1353,
+            "y": 0,
+            "width": 67,
+            "height": 72
+          }
+        ]
+      },
+      "workbench": {
+        "name": "Smith's workbench",
+        "feetWidth": 6.4,
+        "frames": [
+          {
+            "x": 1197,
+            "y": 0,
+            "width": 154,
+            "height": 73
+          }
+        ]
+      },
+      "gold-hoard": {
+        "name": "Treasure chest",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 194,
+            "y": 0,
+            "width": 144,
+            "height": 120
+          }
+        ]
+      },
+      "ingot-stack": {
+        "name": "Ingot stack",
+        "feetWidth": 1.5,
+        "frames": [
+          {
+            "x": 1759,
+            "y": 0,
+            "width": 36,
+            "height": 27
+          }
+        ]
+      },
+      "ore-crates": {
+        "name": "Ore crates",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 1422,
+            "y": 0,
+            "width": 120,
+            "height": 72
+          }
+        ]
+      },
+      "grindstone": {
+        "name": "Grindstone",
+        "feetWidth": 4.4,
+        "frames": [
+          {
+            "x": 1089,
+            "y": 0,
+            "width": 106,
+            "height": 82
+          }
+        ]
+      },
+      "mechanism": {
+        "name": "Gear mechanism",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 582,
+            "y": 0,
+            "width": 144,
+            "height": 106
+          }
+        ]
+      }
+    }
+  },
+  "forest": {
+    "name": "Forest",
+    "imageUrl": "../../graphics/stamps/forest.png",
+    "license": "CC0-1.0",
+    "stamps": {
+      "broadleaf-tree": {
+        "name": "Broadleaf tree",
+        "feetWidth": 20,
+        "frames": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 480,
+            "height": 480
+          }
+        ]
+      },
+      "pine-tree": {
+        "name": "Pine tree",
+        "feetWidth": 14,
+        "frames": [
+          {
+            "x": 1067,
+            "y": 0,
+            "width": 336,
+            "height": 336
+          }
+        ]
+      },
+      "dead-tree": {
+        "name": "Dead tree",
+        "feetWidth": 16,
+        "frames": [
+          {
+            "x": 482,
+            "y": 0,
+            "width": 384,
+            "height": 384
+          }
+        ]
+      },
+      "stump": {
+        "name": "Stump",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 1405,
+            "y": 0,
+            "width": 144,
+            "height": 144
+          }
+        ]
+      },
+      "branches": {
+        "name": "Fallen branches",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 146,
+            "y": 482,
+            "width": 144,
+            "height": 120
+          }
+        ]
+      },
+      "boulder": {
+        "name": "Boulder",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 1867,
+            "y": 0,
+            "width": 144,
+            "height": 135
+          }
+        ]
+      },
+      "rock-cluster": {
+        "name": "Rock cluster",
+        "feetWidth": 7,
+        "frames": [
+          {
+            "x": 1551,
+            "y": 0,
+            "width": 168,
+            "height": 144
+          }
+        ]
+      },
+      "stones": {
+        "name": "Small stones",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 1218,
+            "y": 482,
+            "width": 120,
+            "height": 96
+          }
+        ]
+      },
+      "bush": {
+        "name": "Bush",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 292,
+            "y": 482,
+            "width": 120,
+            "height": 120
+          }
+        ]
+      },
+      "berry-bush": {
+        "name": "Berry bush",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 414,
+            "y": 482,
+            "width": 120,
+            "height": 120
+          }
+        ]
+      },
+      "fern": {
+        "name": "Fern",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 536,
+            "y": 482,
+            "width": 120,
+            "height": 120
+          }
+        ]
+      },
+      "large-mushroom": {
+        "name": "Large mushroom",
+        "feetWidth": 4,
+        "frames": [
+          {
+            "x": 1560,
+            "y": 482,
+            "width": 96,
+            "height": 92
+          }
+        ]
+      },
+      "mushroom-cluster": {
+        "name": "Mushroom cluster",
+        "feetWidth": 3,
+        "frames": [
+          {
+            "x": 1928,
+            "y": 482,
+            "width": 72,
+            "height": 58
+          }
+        ]
+      },
+      "flower-patch": {
+        "name": "Flower patch",
+        "feetWidth": 4,
+        "frames": [
+          {
+            "x": 1340,
+            "y": 482,
+            "width": 96,
+            "height": 96
+          }
+        ]
+      },
+      "grass-tuft": {
+        "name": "Long grass",
+        "feetWidth": 3,
+        "frames": [
+          {
+            "x": 1756,
+            "y": 482,
+            "width": 72,
+            "height": 72
+          }
+        ]
+      },
+      "clover-patch": {
+        "name": "Clover patch",
+        "feetWidth": 4,
+        "frames": [
+          {
+            "x": 1830,
+            "y": 482,
+            "width": 96,
+            "height": 72
+          }
+        ]
+      },
+      "ivy": {
+        "name": "Ivy",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 0,
+            "y": 482,
+            "width": 144,
+            "height": 135
+          }
+        ]
+      },
+      "bramble": {
+        "name": "Bramble",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 1721,
+            "y": 0,
+            "width": 144,
+            "height": 144
+          }
+        ]
+      },
+      "roots": {
+        "name": "Exposed roots",
+        "feetWidth": 8.2,
+        "frames": [
+          {
+            "x": 868,
+            "y": 0,
+            "width": 197,
+            "height": 342
+          }
+        ]
+      },
+      "moss": {
+        "name": "Moss",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 1438,
+            "y": 482,
+            "width": 120,
+            "height": 96
+          }
+        ]
+      },
+      "leaf-pile": {
+        "name": "Leaf pile",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 926,
+            "y": 482,
+            "width": 120,
+            "height": 106
+          }
+        ]
+      },
+      "lily-pads": {
+        "name": "Lily pads",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 780,
+            "y": 482,
+            "width": 144,
+            "height": 113
+          }
+        ]
+      },
+      "cattails": {
+        "name": "Cattails",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 658,
+            "y": 482,
+            "width": 120,
+            "height": 120
+          }
+        ]
+      },
+      "burrow": {
+        "name": "Burrow",
+        "feetWidth": 4,
+        "frames": [
+          {
+            "x": 1658,
+            "y": 482,
+            "width": 96,
+            "height": 88
+          }
+        ]
+      },
+      "animal-tracks": {
+        "name": "Animal tracks",
+        "feetWidth": 7,
+        "frames": [
+          {
+            "x": 1048,
+            "y": 482,
+            "width": 168,
+            "height": 106
+          }
+        ]
+      }
+    }
+  },
+  "goblins": {
+    "name": "Goblins",
+    "imageUrl": "../../graphics/stamps/goblins.png",
+    "license": "CC0-1.0",
+    "stamps": {
+      "hide-tent": {
+        "name": "Hide tent",
+        "feetWidth": 8,
+        "frames": [
+          {
+            "x": 242,
+            "y": 0,
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "barricade": {
+        "name": "Spiked barricade",
+        "feetWidth": 10,
+        "frames": [
+          {
+            "x": 0,
+            "y": 242,
+            "width": 240,
+            "height": 58
+          }
+        ]
+      },
+      "spike-pit": {
+        "name": "Spike pit",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 436,
+            "y": 0,
+            "width": 120,
+            "height": 120
+          }
+        ]
+      },
+      "bone-pile": {
+        "name": "Bone pile",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 704,
+            "y": 0,
+            "width": 120,
+            "height": 106
+          }
+        ]
+      },
+      "skull-pole": {
+        "name": "Skull pole",
+        "feetWidth": 2.8,
+        "frames": [
+          {
+            "x": 1764,
+            "y": 0,
+            "width": 67,
+            "height": 67
+          }
+        ]
+      },
+      "scrap-heap": {
+        "name": "Scrap heap",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 558,
+            "y": 0,
+            "width": 144,
+            "height": 120
+          }
+        ]
+      },
+      "roasting-spit": {
+        "name": "Roasting spit",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 1520,
+            "y": 0,
+            "width": 144,
+            "height": 72
+          }
+        ]
+      },
+      "cook-pot": {
+        "name": "Goblin stew pot",
+        "feetWidth": 4,
+        "frames": [
+          {
+            "x": 1300,
+            "y": 0,
+            "width": 96,
+            "height": 96
+          }
+        ]
+      },
+      "cage": {
+        "name": "Cage",
+        "feetWidth": 10,
+        "frames": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 240,
+            "height": 240
+          }
+        ]
+      },
+      "loot-pile": {
+        "name": "Loot pile",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 826,
+            "y": 0,
+            "width": 120,
+            "height": 106
+          }
+        ]
+      },
+      "sleeping-pile": {
+        "name": "Sleeping pile",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 1398,
+            "y": 0,
+            "width": 120,
+            "height": 96
+          }
+        ]
+      },
+      "refuse-pit": {
+        "name": "Refuse pit",
+        "feetWidth": 4.4,
+        "frames": [
+          {
+            "x": 1192,
+            "y": 0,
+            "width": 106,
+            "height": 97
+          }
+        ]
+      },
+      "caltrops": {
+        "name": "Caltrops",
+        "feetWidth": 4,
+        "frames": [
+          {
+            "x": 1666,
+            "y": 0,
+            "width": 96,
+            "height": 72
+          }
+        ]
+      },
+      "painted-rock": {
+        "name": "Painted rock",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 948,
+            "y": 0,
+            "width": 120,
+            "height": 106
+          }
+        ]
+      },
+      "crude-weapons": {
+        "name": "Crude weapons",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 1070,
+            "y": 0,
+            "width": 120,
+            "height": 101
+          }
+        ]
+      }
+    }
+  },
+  "quest-props": {
+    "name": "Quest props",
+    "imageUrl": "../../graphics/stamps/quest-props.png",
+    "license": "CC0-1.0",
+    "stamps": {
+      "burned-nest": {
+        "name": "Burned nest",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 160,
+            "height": 160
+          }
+        ]
+      },
+      "camp-clue": {
+        "name": "Camp clue",
+        "feetWidth": 3,
+        "frames": [
+          {
+            "x": 1590,
+            "y": 0,
+            "width": 96,
+            "height": 96
+          }
+        ]
+      },
+      "captive-pen-used": {
+        "name": "Captive pen (used)",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 162,
+            "y": 0,
+            "width": 192,
+            "height": 160
+          }
+        ]
+      },
+      "captive-pen": {
+        "name": "Captive pen",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 356,
+            "y": 0,
+            "width": 192,
+            "height": 160
+          }
+        ]
+      },
+      "cub-cage-used": {
+        "name": "Cub cage (used)",
+        "feetWidth": 4,
+        "frames": [
+          {
+            "x": 550,
+            "y": 0,
+            "width": 128,
+            "height": 128
+          }
+        ]
+      },
+      "cub-cage": {
+        "name": "Cub cage",
+        "feetWidth": 4,
+        "frames": [
+          {
+            "x": 680,
+            "y": 0,
+            "width": 128,
+            "height": 128
+          }
+        ]
+      },
+      "egg-clutch": {
+        "name": "Egg clutch",
+        "feetWidth": 3,
+        "frames": [
+          {
+            "x": 1688,
+            "y": 0,
+            "width": 96,
+            "height": 96
+          }
+        ]
+      },
+      "expedition-gear": {
+        "name": "Expedition gear",
+        "feetWidth": 3,
+        "frames": [
+          {
+            "x": 1786,
+            "y": 0,
+            "width": 96,
+            "height": 96
+          }
+        ]
+      },
+      "fever-herb": {
+        "name": "Fever herb",
+        "feetWidth": 2,
+        "frames": [
+          {
+            "x": 1686,
+            "y": 162,
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "goblin-snare-used": {
+        "name": "Goblin snare (used)",
+        "feetWidth": 3,
+        "frames": [
+          {
+            "x": 1752,
+            "y": 162,
+            "width": 96,
+            "height": 64
+          }
+        ]
+      },
+      "goblin-snare": {
+        "name": "Goblin snare",
+        "feetWidth": 3,
+        "frames": [
+          {
+            "x": 1850,
+            "y": 162,
+            "width": 96,
+            "height": 64
+          }
+        ]
+      },
+      "hexed-totem-used": {
+        "name": "Hexed totem (used)",
+        "feetWidth": 3,
+        "frames": [
+          {
+            "x": 1884,
+            "y": 0,
+            "width": 96,
+            "height": 96
+          }
+        ]
+      },
+      "hexed-totem": {
+        "name": "Hexed totem",
+        "feetWidth": 3,
+        "frames": [
+          {
+            "x": 0,
+            "y": 162,
+            "width": 96,
+            "height": 96
+          }
+        ]
+      },
+      "holt-cell-door-used": {
+        "name": "Holt cell door (used)",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 0,
+            "y": 260,
+            "width": 160,
+            "height": 64
+          }
+        ]
+      },
+      "holt-cell-door": {
+        "name": "Holt cell door",
+        "feetWidth": 5,
+        "frames": [
+          {
+            "x": 162,
+            "y": 260,
+            "width": 160,
+            "height": 64
+          }
+        ]
+      },
+      "mushroom-bed-used": {
+        "name": "Mushroom bed (used)",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 810,
+            "y": 0,
+            "width": 192,
+            "height": 128
+          }
+        ]
+      },
+      "mushroom-bed": {
+        "name": "Mushroom bed",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 1004,
+            "y": 0,
+            "width": 192,
+            "height": 128
+          }
+        ]
+      },
+      "panther-kill": {
+        "name": "Panther kill",
+        "feetWidth": 4,
+        "frames": [
+          {
+            "x": 98,
+            "y": 162,
+            "width": 128,
+            "height": 96
+          }
+        ]
+      },
+      "sapper-charge": {
+        "name": "Sapper charge",
+        "feetWidth": 2,
+        "frames": [
+          {
+            "x": 324,
+            "y": 260,
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "silver-sample": {
+        "name": "Silver sample",
+        "feetWidth": 4,
+        "frames": [
+          {
+            "x": 228,
+            "y": 162,
+            "width": 128,
+            "height": 96
+          }
+        ]
+      },
+      "stair-seal-used": {
+        "name": "Stair seal (used)",
+        "feetWidth": 8,
+        "frames": [
+          {
+            "x": 358,
+            "y": 162,
+            "width": 256,
+            "height": 96
+          }
+        ]
+      },
+      "stair-seal": {
+        "name": "Stair seal",
+        "feetWidth": 8,
+        "frames": [
+          {
+            "x": 616,
+            "y": 162,
+            "width": 256,
+            "height": 96
+          }
+        ]
+      },
+      "sunken-idol": {
+        "name": "Sunken idol",
+        "feetWidth": 3,
+        "frames": [
+          {
+            "x": 874,
+            "y": 162,
+            "width": 96,
+            "height": 96
+          }
+        ]
+      },
+      "survivors-lantern": {
+        "name": "Survivors lantern",
+        "feetWidth": 1.5,
+        "frames": [
+          {
+            "x": 488,
+            "y": 260,
+            "width": 48,
+            "height": 48
+          }
+        ]
+      },
+      "trapper-snare": {
+        "name": "Trapper snare",
+        "feetWidth": 3,
+        "frames": [
+          {
+            "x": 390,
+            "y": 260,
+            "width": 96,
+            "height": 64
+          }
+        ]
+      },
+      "tunnel-face-used": {
+        "name": "Tunnel face (used)",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 972,
+            "y": 162,
+            "width": 192,
+            "height": 96
+          }
+        ]
+      },
+      "tunnel-face": {
+        "name": "Tunnel face",
+        "feetWidth": 6,
+        "frames": [
+          {
+            "x": 1166,
+            "y": 162,
+            "width": 192,
+            "height": 96
+          }
+        ]
+      },
+      "tunnel-prop-used": {
+        "name": "Tunnel prop (used)",
+        "feetWidth": 2,
+        "frames": [
+          {
+            "x": 1198,
+            "y": 0,
+            "width": 64,
+            "height": 128
+          }
+        ]
+      },
+      "tunnel-prop": {
+        "name": "Tunnel prop",
+        "feetWidth": 2,
+        "frames": [
+          {
+            "x": 1264,
+            "y": 0,
+            "width": 64,
+            "height": 128
+          }
+        ]
+      },
+      "war-drum-used": {
+        "name": "War drum (used)",
+        "feetWidth": 4,
+        "frames": [
+          {
+            "x": 1330,
+            "y": 0,
+            "width": 128,
+            "height": 128
+          }
+        ]
+      },
+      "war-drum": {
+        "name": "War drum",
+        "feetWidth": 4,
+        "frames": [
+          {
+            "x": 1460,
+            "y": 0,
+            "width": 128,
+            "height": 128
+          }
+        ]
+      },
+      "war-totem-used": {
+        "name": "War totem (used)",
+        "feetWidth": 3,
+        "frames": [
+          {
+            "x": 1360,
+            "y": 162,
+            "width": 96,
+            "height": 96
+          }
+        ]
+      },
+      "war-totem": {
+        "name": "War totem",
+        "feetWidth": 3,
+        "frames": [
+          {
+            "x": 1458,
+            "y": 162,
+            "width": 96,
+            "height": 96
+          }
+        ]
+      },
+      "wolf-tracks": {
+        "name": "Wolf tracks",
+        "feetWidth": 4,
+        "frames": [
+          {
+            "x": 1556,
+            "y": 162,
+            "width": 128,
+            "height": 96
+          }
+        ]
+      },
+      "woodcutters-axe": {
+        "name": "Woodcutters axe",
+        "feetWidth": 3,
+        "frames": [
+          {
+            "x": 538,
+            "y": 260,
+            "width": 96,
+            "height": 48
+          }
+        ]
+      }
+    }
+  }
+}

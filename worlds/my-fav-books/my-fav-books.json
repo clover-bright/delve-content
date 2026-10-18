@@ -1,0 +1,15 @@
+{
+  "name": "my-fav-books",
+  "description": null,
+  "thumbnailUrl": null,
+  "elevationRange": null,
+  "zones": {
+    "warrior-cats": {
+      "path": "./zones/warrior-cats/warrior-cats.json",
+      "name": "warrior cats",
+      "description": null
+    }
+  },
+  "worldLinks": [],
+  "entryPoints": {}
+}

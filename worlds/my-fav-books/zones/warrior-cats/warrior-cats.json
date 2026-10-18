@@ -1,0 +1,25 @@
+{
+  "name": "warrior cats",
+  "description": null,
+  "elvl": 0,
+  "private": false,
+  "maps": [
+    {
+      "$ref": "./two-leg-place/two-leg-place.json",
+      "referenceTo": "map"
+    },
+    {
+      "$ref": "./house-2/house-2.json",
+      "referenceTo": "map"
+    }
+  ],
+  "unitTypes": {},
+  "items": {},
+  "zoneLinks": [],
+  "entryPoints": {},
+  "openConnections": {},
+  "stamps": {
+    "$ref": "./stamps.json",
+    "referenceTo": "stamps"
+  }
+}

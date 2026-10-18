@@ -1,0 +1,12 @@
+{
+  "identifier": "house-2",
+  "name": "house 2",
+  "elvl": null,
+  "imageUrl": null,
+  "pixelDimensions": null,
+  "feetDimensions": null,
+  "lighting": "daylight",
+  "barriers": [],
+  "connections": [],
+  "units": []
+}
