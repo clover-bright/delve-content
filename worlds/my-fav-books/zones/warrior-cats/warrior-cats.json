@@ -47,6 +47,18 @@
       },
       "oneWay": false,
       "requiredKey": null
+    },
+    {
+      "connectionA": {
+        "map": "forest",
+        "connection": "south"
+      },
+      "connectionB": {
+        "map": "two-leg-place",
+        "connection": "north"
+      },
+      "oneWay": false,
+      "requiredKey": null
     }
   ],
   "entryPoints": {
