@@ -21,7 +21,16 @@
       "referenceTo": "map"
     }
   ],
-  "unitTypes": {},
+  "unitTypes": {
+    "deer": {
+      "$ref": "../../unit_types/deer.json",
+      "referenceTo": "unit_type"
+    },
+    "swamp-viper": {
+      "$ref": "../../unit_types/swamp-viper.json",
+      "referenceTo": "unit_type"
+    }
+  },
   "items": {},
   "zoneLinks": [
     {

@@ -248,7 +248,113 @@
       }
     }
   ],
-  "units": [],
+  "units": [
+    {
+      "identifier": "deer-inpoib",
+      "unitType": "deer",
+      "position": {
+        "x": 103.68532578176368,
+        "y": 90.28022670025189,
+        "angle": 0
+      },
+      "hostility": "hostile",
+      "currentHpFraction": 1,
+      "movement": {
+        "type": "still"
+      },
+      "groupIdentifier": "group-gzugke"
+    },
+    {
+      "identifier": "deer-eokwzc",
+      "unitType": "deer",
+      "position": {
+        "x": 31.34947208882194,
+        "y": 54.56863979848868,
+        "angle": 0
+      },
+      "hostility": "hostile",
+      "currentHpFraction": 1,
+      "movement": {
+        "type": "still"
+      },
+      "groupIdentifier": "group-yrbaet"
+    },
+    {
+      "identifier": "deer-octfbw",
+      "unitType": "deer",
+      "position": {
+        "x": 90.41958098686432,
+        "y": 34.79376574307304,
+        "angle": 0
+      },
+      "hostility": "hostile",
+      "currentHpFraction": 1,
+      "movement": {
+        "type": "still"
+      },
+      "groupIdentifier": "group-aedhbl"
+    },
+    {
+      "identifier": "deer-vlfsgz",
+      "unitType": "deer",
+      "position": {
+        "x": 175.437152974301,
+        "y": 49.47890428211588,
+        "angle": 90
+      },
+      "hostility": "hostile",
+      "currentHpFraction": 1,
+      "movement": {
+        "type": "still"
+      },
+      "groupIdentifier": "group-texdaw"
+    },
+    {
+      "identifier": "deer-stdbfv",
+      "unitType": "deer",
+      "position": {
+        "x": 174.68626175949538,
+        "y": 52.89987405541562,
+        "angle": 180.62271143149002
+      },
+      "hostility": "hostile",
+      "currentHpFraction": 1,
+      "movement": {
+        "type": "still"
+      },
+      "groupIdentifier": "group-kpcvsa"
+    },
+    {
+      "identifier": "deer-dqxiqh",
+      "unitType": "deer",
+      "position": {
+        "x": 177.52296190431662,
+        "y": 42.47008816120907,
+        "angle": 92.62659204860194
+      },
+      "hostility": "hostile",
+      "currentHpFraction": 1,
+      "movement": {
+        "type": "still"
+      },
+      "groupIdentifier": "group-uixyew"
+    },
+    {
+      "identifier": "swamp-viper-hztflk",
+      "unitType": "swamp-viper",
+      "position": {
+        "x": 74.2337036899431,
+        "y": 60.576196473551654,
+        "angle": 0
+      },
+      "hostility": "hostile",
+      "currentHpFraction": 1,
+      "movement": {
+        "type": "still"
+      },
+      "groupIdentifier": "group-nmgkum"
+    }
+  ],
   "cellMap": {
     "version": 1,
     "theme": "glade",
