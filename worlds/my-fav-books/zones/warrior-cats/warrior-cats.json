@@ -55,9 +55,23 @@
       },
       "oneWay": false,
       "requiredKey": null
+    },
+    {
+      "connectionA": {
+        "map": "house-1",
+        "connection": "connection-2"
+      },
+      "connectionB": {
+        "map": "two-leg-place",
+        "connection": "connection-3"
+      },
+      "oneWay": false,
+      "requiredKey": null
     }
   ],
-  "entryPoints": {},
+  "entryPoints": {
+    "house-1/start": null
+  },
   "openConnections": {},
   "stamps": {
     "$ref": "./stamps.json",
