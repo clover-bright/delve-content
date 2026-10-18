@@ -3805,7 +3805,8 @@
         ],
         "nodes": {
           "node-kdeyyy": {
-            "text": "hi i couldn't help noticing you moving in next door "
+            "text": "hi i couldn't help noticing you moving in next door ",
+            "next": "node-gjuelc"
           },
           "node-gjuelc": {
             "text": "so tell me have you ever heard of the clans? <have you read the books?>",
