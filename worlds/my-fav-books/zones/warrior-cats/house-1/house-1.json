@@ -12,7 +12,7 @@
   "barriers": [],
   "connections": [
     {
-      "identifier": "connection-1",
+      "identifier": "start",
       "type": "point",
       "position": {
         "x": 45.41061422428242,
@@ -20,6 +20,17 @@
         "angle": 0
       },
       "fuzzRadius": 2,
+      "fuzzAngle": 90
+    },
+    {
+      "identifier": "connection-2",
+      "type": "point",
+      "position": {
+        "x": 29.724878496397906,
+        "y": 52.74265406710369,
+        "angle": 0
+      },
+      "fuzzRadius": 5.383849321311165,
       "fuzzAngle": 90
     }
   ],

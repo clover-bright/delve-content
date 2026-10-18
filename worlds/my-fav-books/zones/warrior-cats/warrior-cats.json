@@ -51,7 +51,7 @@
       },
       "connectionB": {
         "map": "house-1",
-        "connection": "connection-1"
+        "connection": "c"
       },
       "oneWay": false,
       "requiredKey": null
