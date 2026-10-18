@@ -4,9 +4,189 @@
   "elvl": null,
   "imageUrl": null,
   "pixelDimensions": null,
-  "feetDimensions": null,
+  "feetDimensions": {
+    "width": 75,
+    "height": 100
+  },
   "lighting": "daylight",
   "barriers": [],
-  "connections": [],
-  "units": []
+  "connections": [
+    {
+      "identifier": "connection-1",
+      "type": "point",
+      "position": {
+        "x": 29.525542451081378,
+        "y": 96.57554262842793,
+        "angle": 0
+      },
+      "fuzzRadius": 2,
+      "fuzzAngle": 90
+    }
+  ],
+  "units": [],
+  "cellMap": {
+    "version": 1,
+    "theme": "mansion",
+    "grid": {
+      "type": "square",
+      "cols": 15,
+      "rows": 20
+    },
+    "seed": 363774,
+    "cells": [
+      "TTTTT..TTTTTTTT",
+      "TTTTT..TTTTTTTT",
+      "TTTTT..TTTTTTTT",
+      "TT.......%%%%TT",
+      "TT.......%%%%TT",
+      "TT.......%%%%TT",
+      "TT.......%%%%TT",
+      "TT...........TT",
+      "TT...........TT",
+      "TT...........TT",
+      "TT...........TT",
+      "TTTTTTTTTTT.TTT",
+      "TTTTTTTTT~~~~~T",
+      "TTTTTTTTT~~~~~T",
+      "TTTTTTTTT~~~~~T",
+      "TTTTTTTTT~~~~~T",
+      "TTTTTTTTT~~~~~T",
+      "TTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTT",
+      "TTTTTTTTTTTTTTT"
+    ],
+    "exits": [
+      {
+        "side": "north",
+        "from": 5,
+        "to": 6
+      }
+    ],
+    "places": [
+      {
+        "identifier": "area_1",
+        "polygon": [
+          [
+            -0.5,
+            -0.5
+          ],
+          [
+            14.5,
+            -0.5
+          ],
+          [
+            14.5,
+            19.5
+          ],
+          [
+            -0.5,
+            19.5
+          ]
+        ]
+      }
+    ]
+  },
+  "thumbnailUrl": "house-2.thumb.webp",
+  "stamps": [
+    {
+      "stamp": "elves/reading-table",
+      "x": 16.7,
+      "y": 25.5,
+      "scale": 2.94,
+      "rotation": 272.5
+    },
+    {
+      "stamp": "camp/bedroll-open",
+      "x": 19.9,
+      "y": 48.9,
+      "scale": 2.44,
+      "rotation": 270.4
+    },
+    {
+      "stamp": "elves/herb-planters",
+      "x": 65.2,
+      "y": 64.1,
+      "scale": 1.82
+    },
+    {
+      "stamp": "elves/herb-planters",
+      "x": 33.1,
+      "y": 49.2,
+      "scale": 2.24,
+      "rotation": 15.600000000000023
+    },
+    {
+      "stamp": "elves/leaf-mosaic",
+      "x": 52.8,
+      "y": 67.1,
+      "scale": 1.44,
+      "rotation": 46.19999999999999
+    },
+    {
+      "stamp": "dwarves/feast-table",
+      "x": 40.1,
+      "y": 24.1,
+      "scale": 1.71,
+      "rotation": 90.30000000000001
+    },
+    {
+      "stamp": "dwarves/workbench",
+      "x": 51.7,
+      "y": 18.3,
+      "scale": 1.99,
+      "rotation": 359.9
+    },
+    {
+      "stamp": "dwarves/quench-trough",
+      "x": 52.6,
+      "y": 17.6,
+      "scale": 1.6
+    },
+    {
+      "stamp": "dwarves/workbench",
+      "x": 60.9,
+      "y": 22.6,
+      "scale": 2.08,
+      "rotation": 90
+    },
+    {
+      "stamp": "camp/camp-clutter",
+      "x": 59.7,
+      "y": 24.6
+    },
+    {
+      "stamp": "cave/timber-post",
+      "x": 14.8,
+      "y": 42.8,
+      "scale": 2.58
+    },
+    {
+      "stamp": "quest-props/camp-clue",
+      "x": 15.4,
+      "y": 38.1,
+      "scale": 2.69,
+      "rotation": 167.89999999999998
+    },
+    {
+      "stamp": "goblins/painted-rock",
+      "x": 35.4,
+      "y": 35.2,
+      "scale": 0.42,
+      "rotation": 253.8
+    },
+    {
+      "stamp": "elves/standing-stone",
+      "x": 23.1,
+      "y": 18.7,
+      "rotation": 56.30000000000001,
+      "scale": 0.6
+    },
+    {
+      "stamp": "goblins/skull-pole",
+      "x": 38.4,
+      "y": 52.1,
+      "scale": 0.7,
+      "rotation": 77.89999999999998
+    }
+  ]
 }
