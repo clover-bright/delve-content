@@ -11,5 +11,7 @@
     }
   },
   "worldLinks": [],
-  "entryPoints": {}
+  "entryPoints": {
+    "warrior-cats/house-1/start": null
+  }
 }
