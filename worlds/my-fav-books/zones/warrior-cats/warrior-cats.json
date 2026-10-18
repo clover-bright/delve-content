@@ -23,22 +23,10 @@
     {
       "connectionA": {
         "map": "two-leg-place",
-        "connection": "connection-2"
+        "connection": "west"
       },
       "connectionB": {
         "map": "house-2",
-        "connection": "connection-1"
-      },
-      "oneWay": false,
-      "requiredKey": null
-    },
-    {
-      "connectionA": {
-        "map": "house-2",
-        "connection": "connection-1"
-      },
-      "connectionB": {
-        "map": "two-leg-place",
         "connection": "north"
       },
       "oneWay": false,
@@ -46,33 +34,23 @@
     },
     {
       "connectionA": {
-        "map": "two-leg-place",
-        "connection": "connection-3"
-      },
-      "connectionB": {
         "map": "house-1",
-        "connection": "c"
-      },
-      "oneWay": false,
-      "requiredKey": null
-    },
-    {
-      "connectionA": {
-        "map": "house-1",
-        "connection": "connection-2"
+        "connection": "north"
       },
       "connectionB": {
         "map": "two-leg-place",
-        "connection": "connection-3"
+        "connection": "south"
       },
       "oneWay": false,
       "requiredKey": null
     }
   ],
   "entryPoints": {
-    "house-1/start": null
+    "house-1/bed": null
   },
-  "openConnections": {},
+  "openConnections": {
+    "two-leg-place/north": ""
+  },
   "stamps": {
     "$ref": "./stamps.json",
     "referenceTo": "stamps"
