@@ -3782,5 +3782,69 @@
         }
       ]
     }
+  ],
+  "ncus": [
+    {
+      "identifier": "rain-field",
+      "name": "rain field",
+      "tokenImageUrl": "../../../tokens/ncu/cats.webp",
+      "tokenRadius": 2,
+      "position": {
+        "x": 91.75008276406895,
+        "y": 60.648917296347214,
+        "angle": 0
+      },
+      "movement": {
+        "type": "still"
+      },
+      "dialogue": {
+        "entry": [
+          {
+            "node": "node-kdeyyy"
+          }
+        ],
+        "nodes": {
+          "node-kdeyyy": {
+            "text": "hi i couldn't help noticing you moving in next door "
+          },
+          "node-gjuelc": {
+            "text": "so tell me have you ever heard of the clans? <have you read the books?>",
+            "choices": [
+              {
+                "text": "yes",
+                "next": "node-hluujs"
+              },
+              {
+                "text": "no",
+                "next": "node-mjjemw"
+              }
+            ]
+          },
+          "node-hluujs": {
+            "text": "perfect  in this zone you will experience all the different clans and maybe even see starclan",
+            "next": "node-tycfob"
+          },
+          "node-mjjemw": {
+            "text": "okay thats fine i,ll explain it to you the clans are large groups of wild cats that live in the forest around here <warrior cats is a amazing book series about cats! they live in the wild in clans and have hunting patrols and border patrols to! its a grate book series but a little violent i highly suggest you read it! if you dont thats fine to>",
+            "next": "node-jauzsc"
+          },
+          "node-jauzsc": {
+            "text": "oh i almost forgot to tell you the different clans < if you plan on reading the books i suggest you dont play this because you will get spoilers > skyclan riverclan windclan thunderclan and shadowclan oh i cant forget starclan thats where good cats go if they die",
+            "choices": [
+              {
+                "text": "what happen to bad cats",
+                "next": "node-rgxdfk"
+              }
+            ]
+          },
+          "node-tycfob": {
+            "text": "safe hunting"
+          },
+          "node-rgxdfk": {
+            "text": "oh they go to the dark forest  bleh i hate that place. anyway safe hunting and dont say anything mouse brained!"
+          }
+        }
+      }
+    }
   ]
 }
