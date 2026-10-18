@@ -15,6 +15,10 @@
     {
       "$ref": "./house-1/house-1.json",
       "referenceTo": "map"
+    },
+    {
+      "$ref": "./forest/forest.json",
+      "referenceTo": "map"
     }
   ],
   "unitTypes": {},

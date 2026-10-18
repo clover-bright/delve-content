@@ -359,6 +359,14 @@
             14
           ],
           [
+            22.04,
+            14.89
+          ],
+          [
+            22.85,
+            16.09
+          ],
+          [
             24,
             16.78
           ],
@@ -3805,8 +3813,7 @@
         ],
         "nodes": {
           "node-kdeyyy": {
-            "text": "hi i couldn't help noticing you moving in next door ",
-            "next": "node-gjuelc"
+            "text": "hi i couldn't help noticing you moving in next door "
           },
           "node-gjuelc": {
             "text": "so tell me have you ever heard of the clans? <have you read the books?>",
@@ -3839,7 +3846,7 @@
             ]
           },
           "node-tycfob": {
-            "text": " safe hunting< if you are not done with the series there are spoilers in this you have been warned>"
+            "text": "safe hunting"
           },
           "node-rgxdfk": {
             "text": "oh they go to the dark forest  bleh i hate that place. anyway safe hunting and dont say anything mouse brained!"
