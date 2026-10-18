@@ -15,7 +15,32 @@
   ],
   "unitTypes": {},
   "items": {},
-  "zoneLinks": [],
+  "zoneLinks": [
+    {
+      "connectionA": {
+        "map": "two-leg-place",
+        "connection": "connection-2"
+      },
+      "connectionB": {
+        "map": "house-2",
+        "connection": "connection-1"
+      },
+      "oneWay": false,
+      "requiredKey": null
+    },
+    {
+      "connectionA": {
+        "map": "house-2",
+        "connection": "connection-1"
+      },
+      "connectionB": {
+        "map": "two-leg-place",
+        "connection": "north"
+      },
+      "oneWay": false,
+      "requiredKey": null
+    }
+  ],
   "entryPoints": {},
   "openConnections": {},
   "stamps": {
