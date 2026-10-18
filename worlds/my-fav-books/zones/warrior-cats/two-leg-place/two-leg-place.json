@@ -255,11 +255,22 @@
       "identifier": "connection-2",
       "type": "point",
       "position": {
-        "x": 37.991838071892275,
-        "y": 14.737175935504162,
+        "x": 38.037162062041986,
+        "y": 15.300608197807295,
         "angle": 0
       },
-      "fuzzRadius": 0.07800025264515384,
+      "fuzzRadius": 0.06576339856729874,
+      "fuzzAngle": 90
+    },
+    {
+      "identifier": "connection-3",
+      "type": "point",
+      "position": {
+        "x": 147.66474747372962,
+        "y": 5.109203909881638,
+        "angle": 0
+      },
+      "fuzzRadius": 6.680413066565463,
       "fuzzAngle": 90
     }
   ],

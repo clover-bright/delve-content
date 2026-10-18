@@ -11,6 +11,10 @@
     {
       "$ref": "./house-2/house-2.json",
       "referenceTo": "map"
+    },
+    {
+      "$ref": "./house-1/house-1.json",
+      "referenceTo": "map"
     }
   ],
   "unitTypes": {},
@@ -36,6 +40,18 @@
       "connectionB": {
         "map": "two-leg-place",
         "connection": "north"
+      },
+      "oneWay": false,
+      "requiredKey": null
+    },
+    {
+      "connectionA": {
+        "map": "two-leg-place",
+        "connection": "connection-3"
+      },
+      "connectionB": {
+        "map": "house-1",
+        "connection": "connection-1"
       },
       "oneWay": false,
       "requiredKey": null
